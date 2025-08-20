@@ -16,8 +16,8 @@ This project is a React + Vite e-commerce site with a minimal setup, supporting 
 
 1. **Clone the repository**
 
-git clone `<your-repo-url>`
-cd `<repo-folder>`
+git clone `https://github.com/developer-drashti/mini-shop.git`
+cd `mini-shop`
 
 2. **Install dependencies**
 
