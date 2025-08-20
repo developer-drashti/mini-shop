@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "role": "admin",
+      "userName": "admin",
+      "password": "admin123",
+      "email": "admin@test.com",
+      "name": "Admin User"
+    },
+    {
+      "id": "2",
+      "role": "user",
+      "userName": "divine",
+      "password": "divine123",
+      "email": "divine@test.com",
+      "name": "Divine Doe"
+    },
+    {
+      "userName": "dhartipatel",
+      "password": "dharti123",
+      "name": "Dharti Patel",
+      "email": "dharti@gmail.com",
+      "role": "user",
+      "id": "7217"
+    },
+    {
+      "userName": "harshpatel",
+      "password": "harsh123",
+      "name": "Harsh Patel",
+      "email": "harsh@gmail.com",
+      "role": "user",
+      "id": "f828"
+    },
+    {
+      "id": "9bf1",
+      "userName": "shivalidesai",
+      "password": "shivali123",
+      "name": "Shivali Desai",
+      "email": "shivali@gmail.com",
+      "role": "user"
+    },
+    {
+      "userName": "yashsot",
+      "password": "yash1234@",
+      "name": "Yash Desai",
+      "email": "yash@gmail.com",
+      "role": "User",
+      "id": "4e47"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy S25 Ultra",
+      "description": "Flagship device with a 200MP camera, Snapdragon 8 Elite processor, and a 6.9-inch AMOLED display.",
+      "price": 129999
+    },
+    {
+      "id": "2",
+      "name": "OnePlus 13R",
+      "description": "Offers Snapdragon 8 Gen 3, 6.78-inch AMOLED display, and a 6,000 mAh battery for extended usage.",
+      "price": 39614
+    },
+    {
+      "id": "3",
+      "name": "Google Pixel 9",
+      "description": "Known for its AI-driven camera and clean Android experience.",
+      "price": 60135
+    },
+    {
+      "id": "4",
+      "name": "Motorola Edge 60 Pro",
+      "description": "Waterproof smartwatch with health tracking",
+      "price": 12000
+    },
+    {
+      "id": "5",
+      "name": "iQOO Z10R",
+      "description": "10-inch display tablet for media and work",
+      "price": 30000
+    },
+    {
+      "id": "6",
+      "name": "Redmi Note 14 Pro+ 5G",
+      "description": "Offers a 120Hz AMOLED display and MediaTek Dimensity 1200 processor.",
+      "price": 25048
+    },
+    {
+      "id": "7",
+      "name": "OPPO K13 Turbo Pro",
+      "description": "Mid-range device with a 90Hz display and MediaTek Dimensity 8000 processor.",
+      "price": 37000
+    },
+    {
+      "id": "8",
+      "name": "vivo T4X",
+      "description": "Entry-level 5G phone with a 90Hz display and Snapdragon 695 chipset.",
+      "price": 14000
+    },
+    {
+      "id": "9",
+      "name": "Moto G86 Power",
+      "description": "Affordable option with a 120Hz display and MediaTek Dimensity 700 processor.",
+      "price": 18000
+    },
+    {
+      "id": "10",
+      "name": "Redmi A4 5G",
+      "description": "Budget 5G phone with a 90Hz display and Snapdragon 480 chipset.",
+      "price": 8000
+    }
+  ]
+}
